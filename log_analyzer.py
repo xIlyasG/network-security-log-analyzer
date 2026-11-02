@@ -1,4 +1,4 @@
-threshold = 5
+threshold = 3
 
 success_count = 0
 failed_count = 0
