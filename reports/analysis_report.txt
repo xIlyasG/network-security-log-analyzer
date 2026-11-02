@@ -1,6 +1,6 @@
 NETWORK SECURITY LOG ANALYSIS REPORT
 ====================================
-Detection threshold: 5 failed attempts
+Detection threshold: 3 failed attempts
 Successful logins: 3
 Failed logins: 7
 
@@ -9,3 +9,5 @@ Failed logins by IP:
 198.51.100.23: 3
 
 Suspicious IP alerts:
+WARNING: 203.0.113.50 had 4 failed login attempts
+WARNING: 198.51.100.23 had 3 failed login attempts
